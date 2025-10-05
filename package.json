@@ -24,6 +24,7 @@
   "dependencies": {
     "@aduh95/viz.js": "^3.7.0",
     "@solidity-parser/parser": "^0.16.1",
+    "axios": "^1.7.9",
     "axios": "^1.6.3",
     "axios-debug-log": "^1.0.0",
     "cli-color": "^2.0.3",
